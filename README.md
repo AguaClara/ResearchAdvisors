@@ -1,7 +1,7 @@
 # ResearchAdvisors
 Organize RA's primary and secondary responsibilities with additional input from the AguaClara community
 
-
+## Fall 2018
 **Name** | **NetID**|**Primary Responsibility**|**Secondary Responsbility**
 |---|---|---|---|
 Eldor Bekpulatov|eb654|Apps & Algorithims|Leadership
